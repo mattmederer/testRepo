@@ -1,0 +1,1 @@
+- [jsdom + let/const vm pattern](feedback_jsdom_let_const.md) — testing single-file HTML apps: transform let/const to var, use runScripts:'outside-only' + vm.runInContext; needs TextEncoder polyfill in jest.setup.js
